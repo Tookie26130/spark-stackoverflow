@@ -1,0 +1,10 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/products {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/test:products
+submit david.galy26@gmail.com qan0vqVfyaZYUCgK
+all {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/products {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/test:products
+submit david.galy26@gmail.com qan0vqVfyaZYUCgK
+all {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/products {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/test:products
+submit david.galy26@gmail.com qan0vqVfyaZYUCgK
+all {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/products {file:/home/Tookie/Works/wewyse/coursera/assignments/stackoverflow/}root/test:products
+submit david.galy26@gmail.com qan0vqVfyaZYUCgK
+submit david.galy26@gmail.com jgTnerXKzVCBof3l 
